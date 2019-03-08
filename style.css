@@ -1,0 +1,21 @@
+/*
+ Theme Name:   Child of Hamilton
+ Description:  Elara
+ Author:       Christine Due 
+ Author URI:   cdue.dk
+ Template:     hamilton
+ Version:      1.0.0
+*/
+
+.section-inner {
+	margin: 0 auto;
+	max-width: 1200px;
+}
+.section-inner .section-inner {
+	width: 90%;
+}
+
+.text{
+	line-height: 1.6;
+}
+
